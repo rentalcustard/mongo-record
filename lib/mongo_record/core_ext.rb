@@ -71,7 +71,7 @@ class String
   end
 end
 
-class BSON::ObjectID
+class BSON::ObjectId
 
   # Convert this object to an ObjectID.
   def to_oid
