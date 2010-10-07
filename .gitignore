@@ -1,2 +1,3 @@
 mongo_record-*.gem
 *~
+*.rb.swp
